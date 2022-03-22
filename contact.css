@@ -103,6 +103,7 @@ textarea {
   color: white;
   font-size: 18px;
   cursor: pointer;
+  margin-right: 200px;
 }
 
 @media (max-width: 768px) {
