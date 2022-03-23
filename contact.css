@@ -114,10 +114,15 @@ textarea {
   }
 }
 
+.container {
+  margin-left: 100px;
+}
+
 .image {
   position: absolute;
 }
 
 .image img {
   height: 720px;
+  border-radius: 10px;
 }
