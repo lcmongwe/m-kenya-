@@ -113,3 +113,11 @@ textarea {
     text-align: center;
   }
 }
+
+.image {
+  position: absolute;
+}
+
+.image img {
+  height: 720px;
+}
