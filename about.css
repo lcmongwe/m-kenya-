@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.aboutus {
+  background-image: url(image/oi.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+
+}
+
+.circle {
+  border-radius: 250px;
+  width: 400px;
+  height: 400px;
+  background-color: #fa5f1a;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 20%;
+  left: 55.5%;
+  opacity: 85%;
+}
+
+.Circle2 {
+  border-radius: 250px;
+  width: 400px;
+  height: 400px;
+  color: rgb(255, 255, 255);
+  background-color: #fa5f1a;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 30%;
+  left: 65.5%;
+  opacity: 50%;
+  bottom: 200%;
+}
+
+.rectangle {
+  /* border-radius: 90px; */
+  height: 290px;
+  width: 690px;
+  background-color: #fa5f1a;
+  position: relative;
+  color: #000;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  opacity: 0.8;
+}
