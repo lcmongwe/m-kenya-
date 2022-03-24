@@ -55,9 +55,9 @@
   /* border-radius: 90px; */
   height: 290px;
   width: 40%;
-  background-color: #fa5f1a;
+  background-color: #b3b1b0;
   position: relative;
-  color: #fa5f1a;
+  color: hsl(0, 0%, 100%);
   align-items: center;
   text-align: center;
   display: flex;
@@ -66,11 +66,11 @@
   top: 30%;
   left: 10%;
   opacity: 85%;
-  box-sizing: border-box;
-  background-image: url(images/download\ \(3\).jpeg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  /* box-sizing: border-box; */
+  /* background-image: url(images/download\ \(3\).jpeg); */
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  /* background-size: cover; */
 }
 
 .aboutus, .circle h1{
