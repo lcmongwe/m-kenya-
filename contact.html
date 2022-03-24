@@ -56,14 +56,15 @@
                 <p>we'd be glad to hear from you</p>
               </div>
               <div class="name">
-                <input type="text" required placeholder="Name" />
+                <input type="text" id="name" required placeholder="Name" />
               </div>
               <div class="email">
                 <input type="email" required placeholder="Email" />
                 <input type="number" required placeholder="Phone Number" />
               </div>
               <input class="textarea" placeholder="type message"> </input>
-              <div class="submit"><button>send message</button></div>
+              <div class="submit"><button onclick="msg()">send message</button></div>
+              <p id="message"></p>
             </td>
           </tr>
         </table>
